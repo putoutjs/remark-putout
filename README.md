@@ -1,7 +1,7 @@
 # remark-putout [![NPM version][NPMIMGURL]][NPMURL] [![Dependency Status][DependencyStatusIMGURL]][DependencyStatusURL]
 
 [NPMIMGURL]:                https://img.shields.io/npm/v/remark-putout.svg?style=flat&longCache=true
-[NPMURL]:                   https://npmjs.org/package/remark-putout"npm"
+[NPMURL]:                   https://npmjs.org/package/remark-putout "npm"
 
 [DependencyStatusURL]:      https://david-dm.org/coderaiser/putout?path=packages/remark-putout
 [DependencyStatusIMGURL]:   https://david-dm.org/coderaiser/putout.svg?path=packages/remark-putout
